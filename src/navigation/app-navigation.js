@@ -10,7 +10,6 @@ const AppNavigator = createStackNavigator(
   {
     Home: HomeScreen,
     Hero:  HeroScreen,
-    HeroDetail: HeroDetailScreen,
   },
   {
     initialRouteName: "Home"
